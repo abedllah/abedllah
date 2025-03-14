@@ -41,5 +41,5 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 **Check the Repositories and don't forget to give a star.** 👇
 
 
-[instagram]: [https://www.instagram.com/souravdey777/](https://www.instagram.com/abdellahtg/)
-[linkedin]: [https://www.linkedin.com/in/sourav-dey/](https://www.linkedin.com/in/abdellah-taghouni-a53262256/)
+[instagram]: https://www.instagram.com/abdellahtg/
+[linkedin]: https://www.linkedin.com/in/abdellah-taghouni-a53262256/
